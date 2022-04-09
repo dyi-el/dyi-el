@@ -1,5 +1,5 @@
 
-![JL's Banner](./assets/banner.png)
+![JL's Banner](banner.png)
 
 ![Visits](https://badges.pufler.dev/visits/bualoydgreat/bualoydgreat)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlbualoy/)
