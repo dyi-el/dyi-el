@@ -1,7 +1,7 @@
 
 ![JL's Banner](banner.png)
 
-![Visits](https://badges.pufler.dev/visits/bualoydgreat/bualoydgreat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fbadges.pufler.dev%2Fvisits%2Fbualoydgreat%2Fbualoydgreat&countColor=%23ff8a65)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlbualoy/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jlbualoy)
 
