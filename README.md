@@ -1,7 +1,7 @@
 
 ![JL's Banner](banner.png)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fbadges.pufler.dev%2Fvisits%2Fbualoydgreat%2Fbualoydgreat&label=Visits&countColor=%232ccce4)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fbadges.pufler.dev%2Fvisits%2Fdyi-el%2Fdyi-el&label=Visits&countColor=%232ccce4)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlbualoy/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jlbualoy)
 
@@ -11,8 +11,8 @@ My whole journey is still a work in progress trying to build my repository slowl
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/bualoydgreat/presidential-prediction-facial.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bualoydgreat&repo=presidential-prediction-facial&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/dyi-el/presidential-prediction-facial.git">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dyi-el&repo=presidential-prediction-facial&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <br>
@@ -20,7 +20,7 @@ My whole journey is still a work in progress trying to build my repository slowl
 ## 🐱 GitHub Stats
 
 
-<a href="https://github.com/bualoydgreat">
+<a href="https://github.com/dyi-el">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bualoydgreat&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
