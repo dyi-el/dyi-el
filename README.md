@@ -14,7 +14,9 @@ My whole journey is still a work in progress trying to build my repository slowl
 <a href="https://github.com/dyi-el/presidential-prediction-facial.git">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dyi-el&repo=presidential-prediction-facial&theme=slateorange&show_icons=true" />
 </a>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=fff733aa14573af691925427f48e0a97)](https://gist.github.com/dyi-el/fff733aa14573af691925427f48e0a97/)
+<a href="https://gist.github.com/dyi-el/fff733aa14573af691925427f48e0a97">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/gist?id=fff733aa14573af691925427f48e0a97&theme=slateorange&show_icons=true" />
+</a>
 
 <br>
 <br>
@@ -23,11 +25,11 @@ My whole journey is still a work in progress trying to build my repository slowl
 
 
 <a href="https://github.com/dyi-el">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bualoydgreat&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyi-el&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bualoydgreat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dyi-el&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
 <br>
 <br>
