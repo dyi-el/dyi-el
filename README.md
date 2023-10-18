@@ -17,6 +17,9 @@ My whole journey is still a work in progress trying to build my repository slowl
 <a href="https://gist.github.com/dyi-el/fff733aa14573af691925427f48e0a97">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/gist?id=fff733aa14573af691925427f48e0a97&theme=slateorange&show_icons=true" />
 </a>
+<a href="https://gist.github.com/dyi-el/ce66e5d1b3dc258b32cfd41f61db5016">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/gist?id=ce66e5d1b3dc258b32cfd41f61db5016&theme=slateorange&show_icons=true" />
+</a>
 
 <br>
 <br>
