@@ -11,9 +11,11 @@ My whole journey is still a work in progress trying to build my repository slowl
 
 ## 📌 Pinned Repositories
 
+<a href="https://github.com/dyi-el/fruitflite.git">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dyi-el&repo=fruitflite&theme=slateorange&show_icons=true" />
+</a>
 <a href="https://github.com/dyi-el/presidential-prediction-facial.git">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dyi-el&repo=presidential-prediction-facial&theme=slateorange&show_icons=true" />
-</a>
 <a href="https://gist.github.com/dyi-el/fff733aa14573af691925427f48e0a97">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/gist?id=fff733aa14573af691925427f48e0a97&theme=slateorange&show_icons=true" />
 </a>
