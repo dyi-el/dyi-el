@@ -29,9 +29,9 @@ My whole journey is still a work in progress trying to build my repository slowl
 ## 🐱 GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyi-el)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyi-el&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-[![dyi-el's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyi-el)](https://github.com/anuraghazra/github-readme-stats)
+[![dyi-el's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyi-el&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
