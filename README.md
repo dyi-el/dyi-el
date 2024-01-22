@@ -28,7 +28,7 @@ My whole journey is still a work in progress trying to build my repository slowl
 
 ## 🐱 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyi-el&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyi-el&size_weight=0.5&count_weight=0.5&theme=slateorange)
 ![JL's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyi-el&show_icons=true&theme=slateorange)
 <br>
 <br>
