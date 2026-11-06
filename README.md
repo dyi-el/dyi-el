@@ -1,52 +1,82 @@
+<div align="center">
 
-![JL's Banner](banner.png)
+  <img src="banner.png" alt="Jan Eliel Bualoy Banner" width="100%" />
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fbadges.pufler.dev%2Fvisits%2Fdyi-el%2Fdyi-el&label=Visits&countColor=%232ccce4)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlbualoy/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jlbualoy)
+  <br/><br/>
 
-## 🫡 Introduction
-Hello!👋 I am an Electronics Engineering Undergrad from Philippines interested in Data Science. 
-My whole journey is still a work in progress trying to build my repository slowly and improving over time.
+  [![Profile Views](https://komarev.com/ghpvc/?username=dyi-el&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/dyi-el)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlbualoy/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/jlbualoy)
+  [![Email](https://img.shields.io/badge/Email-bualoyjaneliel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bualoyjaneliel@gmail.com)
 
-## 📌 Pinned Repositories
+  <h1>Hey there, I'm JL Bualoy 👋</h1>
+  <p><strong>AI Engineer • Agentic Systems • LLMs & Open Models • Computer Vision</strong></p>
 
-<a href="https://github.com/dyi-el/fruitflite.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dyi-el&repo=fruitflite&theme=slateorange&show_icons=true" />
-</a>
-<a href="https://github.com/dyi-el/presidential-prediction-facial.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dyi-el&repo=presidential-prediction-facial&theme=slateorange&show_icons=true" />
-<a href="https://gist.github.com/dyi-el/fff733aa14573af691925427f48e0a97">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/gist?id=fff733aa14573af691925427f48e0a97&theme=slateorange&show_icons=true" />
-</a>
-<a href="https://gist.github.com/dyi-el/ce66e5d1b3dc258b32cfd41f61db5016">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/gist?id=ce66e5d1b3dc258b32cfd41f61db5016&theme=slateorange&show_icons=true" />
-</a>
+</div>
 
-<br>
-<br>
+---
 
-## 🐱 GitHub Stats
+### 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyi-el&size_weight=0.5&count_weight=0.5&theme=slateorange)
-![JL's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyi-el&show_icons=true&theme=slateorange)
-<br>
-<br>
+I am an **AI Engineer** and **Licensed Electronics Engineer** focused on building production-grade **Agentic AI workflows**, **LLM orchestration (Claude API, Open-Source Weights, RAG)**, and **Computer Vision** systems.
 
-## 🥷 Skills  
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+- 🔭 **Current Focus:** Agentic workflows, tool-augmented LLM pipelines, model fine-tuning, and edge Computer Vision.
+
+- 📜 **Credentials:** Registered Electronics Engineer (ECE) & Registered Electronics Technician (ECT).
+- 💡 **Interests:** Multi-agent architectures, computer vision, real-time inferencing, and distributed ML.
+- 📫 **Get in Touch:** Reach out via [LinkedIn](https://www.linkedin.com/in/jlbualoy/) or drop an email at [bualoyjaneliel@gmail.com](mailto:bualoyjaneliel@gmail.com).
+
+---
+
+### 🛠️ Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Open_Models-Llama_3_•_Mistral-0052CC?style=flat-square" alt="Open Models" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+</p>
+
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| [**FruitFlite**](https://github.com/dyi-el/fruitflite) | `Vertex AI` `TensorFlow Lite` `Computer Vision` | Lightweight edge object detection application for classifying *Bactrocera* fruit fly species with optimized inference. |
+| **LLM Exam MCQ Generator** | `Mistral-7B` `Llama 3` `LangChain` `RAG` | Fine-tuned open-source LLMs paired with a hybrid RAG pipeline to generate high-accuracy licensure examination questions. |
+| **YOLOv8 Adaptive Traffic Control** | `YOLOv8` `OpenCV` `Edge AI` | Intelligent vision-based traffic density controller reducing idle green light wait times by over 27%. |
+| **PySpark Traffic Pattern Analysis** | `PySpark` `Machine Learning` `Big Data` | Scalable predictive modeling on a massive dataset of 7M+ accident records to uncover spatial and temporal risk patterns. |
+
+---
+
+### 📊 GitHub Overview
+
+<div align="center">
+  <a href="https://github.com/dyi-el">
+    <img src="https://img.shields.io/github/followers/dyi-el?label=Followers&style=flat-square&logo=github&color=238636" alt="Followers" />
+  </a>
+  <a href="https://github.com/dyi-el?tab=repositories">
+    <img src="https://img.shields.io/github/stars/dyi-el?label=Stars%20Received&style=flat-square&logo=github&color=e3b341" alt="Stars" />
+  </a>
+  <a href="https://github.com/dyi-el">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-0969da?style=flat-square&logo=github" alt="Open Source" />
+  </a>
+  <a href="https://github.com/dyi-el">
+    <img src="https://img.shields.io/badge/Status-Building%20Agentic%20AI-brightgreen?style=flat-square" alt="Status" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by <a href="https://github.com/dyi-el">dyi-el</a></sub>
+</div>
